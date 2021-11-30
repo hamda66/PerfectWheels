@@ -1,9 +1,9 @@
 <?php
 function opencon(){
 	$db="products";
-	$dbhost="127.0.0.1";
-	$dbuser="root";
-	$dbpass="";
+	$dbhost="sql11.freemysqlhosting.net";
+	$dbuser="sql11455306";
+	$dbpass="QirPAhKG7Q";
 	
 	$conn = new mysqli($dbhost,$dbuser,$dbpass,$db) or die("failed to connect".$conn->error);
 	
