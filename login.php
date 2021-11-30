@@ -206,13 +206,7 @@ input[type=submit]:active {
 }
 </style>
 <body>
-<?php  
-   
- include("dbcon.php");
-$conn = OpenCon();
 
-
-?>  
 <?php
 $user = $password ="";
 $usererr = $passworderr ="";
@@ -245,8 +239,6 @@ Your package will be with you in 2 days")</script>';
 }
 ?>
 
-<?php
-$conn->close();?>
 
 <div class="login">
   <h1>Login to Check out</h1>
