@@ -14,7 +14,7 @@
 <li><a href="Brands.html">Brands</a></li>
 <li><a href="About.html">About</a></li>
 <li><a href="Contact.php">Contact</a></li>
-  <li><a href="login.php">Contact</a></li>
+  <li><a href="login.php">login</a></li>
 </ul>
 </div>
 <div class="title">
